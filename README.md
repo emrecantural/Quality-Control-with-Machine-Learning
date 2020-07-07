@@ -10,7 +10,7 @@ When the project is completed, big data, machine learning, data set, data proces
 ### INTODUCTION
 
 Machine learning is used in many areas today. Machine learning, which is the greatest opportunity for big data, analyzes data from different sources and learns from these data. Machine learning creates systems that are difficult to establish mathematically. Machine learning is a method paradigm that uses mathematical and statistical methods to make inferences from existing data and make predictions about these unknowns. Different algorithms, different features and different data are made trial and error. Models are created using trial and error. For machine learning;
->	Obtaining data,,
+>	Obtaining data,
 	Preprocessing of data and editing of data,
 	Creating models,
 	Testing the models,
